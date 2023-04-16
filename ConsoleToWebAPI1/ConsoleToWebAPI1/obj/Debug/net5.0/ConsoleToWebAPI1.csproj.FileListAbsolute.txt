@@ -5,7 +5,6 @@ C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\bin\Debug\net5.0\Co
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\bin\Debug\net5.0\ConsoleToWebAPI1.dll
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\bin\Debug\net5.0\ref\ConsoleToWebAPI1.dll
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\bin\Debug\net5.0\ConsoleToWebAPI1.pdb
-C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.csproj.AssemblyReference.cache
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.AssemblyInfo.cs
@@ -19,3 +18,4 @@ C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\Co
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ref\ConsoleToWebAPI1.dll
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.pdb
 C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.genruntimeconfig.cache
+C:\Users\USER\source\repos\ConsoleToWebAPI1\ConsoleToWebAPI1\obj\Debug\net5.0\ConsoleToWebAPI1.csproj.AssemblyReference.cache
